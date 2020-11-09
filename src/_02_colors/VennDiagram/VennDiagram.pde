@@ -1,1 +1,12 @@
 size(600,600);
+textSize(20);
+fill(255, 0, 0, 100);
+ellipse(350, 250, 150, 150);
+fill(0, 255, 0, 100);
+ellipse(250, 250, 150, 150);
+fill(0, 0, 255, 100);
+ellipse(300, 330, 150, 150);
+fill(255, 255, 0);
+text("Happy", 330, 250);
+text("Friendly", 220, 250);
+text("Helpful", 280, 330);
